@@ -1,3 +1,4 @@
+**本插件全程使用Ai制作**  
 📌 插件概览
 
 插件名称：LRC to 3D Text (Final Stable)
