@@ -1,3 +1,5 @@
+📌 插件概览
+
 插件名称：LRC to 3D Text (Final Stable)
 作者：far-chen
 适用 Blender 版本：5.0.0 及以上
@@ -112,10 +114,3 @@ LRC 解析 支持 [mm:ss.xx] 格式，自动排序，忽略空行。
 🙌 总结
 
 LRC to 3D Text 插件将枯燥的歌词数据转化为生动的 3D 动画文字，极大提升了音乐可视化项目的制作效率。无论是专业视频创作者还是 Blender 爱好者，都能快速上手，实现富有表现力的歌词字幕效果。
-
-需要截图的位置已用 📷 标注，请根据实际界面进行截图补充，以便完善介绍文章。
-
----
-
-Enjoy creating with Blender！
-—— far-chen
