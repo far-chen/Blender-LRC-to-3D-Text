@@ -28,7 +28,7 @@
 ## 🖥️ 界面导览
 
 插件面板位于 3D 视图右侧工具栏（按 N 键打开），分为四个子面板：  
-![](https://raw.githubusercontent.com/far-chen/Blender-LRC-to-3D-Text/a39bcb8e81bfcce7bdbe2693b284203f036281e2/Preview.png)
+![](https://raw.githubusercontent.com/far-chen/Blender-LRC-to-3D-Text/refs/heads/main/Preview.png)
 
 ### 1. 📁 导入与清除
 
